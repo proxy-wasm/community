@@ -26,7 +26,7 @@ Upcoming community meetings:
 | 2025/05/29 | 17:00 | [link](https://meet.google.com/rjp-zixz-vzr) | [link](https://tel.meet/rjp-zixz-vzr?pin=6040905848018) |
 | 2025/06/26  | 17:00 | [link](https://meet.google.com/rjp-zixz-vzr) | [link](https://tel.meet/rjp-zixz-vzr?pin=6040905848018) |
 | 2025/07/31  | 17:00 | [link](https://meet.google.com/rjp-zixz-vzr) | [link](https://tel.meet/rjp-zixz-vzr?pin=6040905848018) |
-| 2025/08/28  | 17:00 | [link](https://meet.google.com/rjp-zixz-vzr) | [link](https://tel.meet/rjp-zixz-vzr?pin=6040905848018) |
+| 2025/09/04  | 17:00 | [link](https://meet.google.com/rjp-zixz-vzr) | [link](https://tel.meet/rjp-zixz-vzr?pin=6040905848018) |
 | 2025/09/25  | 17:00 | [link](https://meet.google.com/rjp-zixz-vzr) | [link](https://tel.meet/rjp-zixz-vzr?pin=6040905848018) |
 | 2025/10/30  | 17:00 | [link](https://meet.google.com/rjp-zixz-vzr) | [link](https://tel.meet/rjp-zixz-vzr?pin=6040905848018) |
 | 2025/11/27  | 17:00 | [link](https://meet.google.com/rjp-zixz-vzr) | [link](https://tel.meet/rjp-zixz-vzr?pin=6040905848018) |
