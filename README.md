@@ -31,6 +31,11 @@ Upcoming community meetings:
 | 2025/11/06  | 18:00 | [link](https://meet.google.com/rjp-zixz-vzr) | [link](https://tel.meet/rjp-zixz-vzr?pin=6040905848018) |
 | 2025/12/04  | 18:00 | [link](https://meet.google.com/rjp-zixz-vzr) | [link](https://tel.meet/rjp-zixz-vzr?pin=6040905848018) |
 | 2026/01/15  | 18:00 | [link](https://meet.google.com/rjp-zixz-vzr) | [link](https://tel.meet/rjp-zixz-vzr?pin=6040905848018) |
+| 2026/02/12  | 18:00 | [link](https://meet.google.com/dzs-tpjy-hds) | [link](https://tel.meet/dzs-tpjy-hds?pin=3275136706880) |
+| 2026/03/12  | 17:00 | [link](https://meet.google.com/dzs-tpjy-hds) | [link](https://tel.meet/dzs-tpjy-hds?pin=3275136706880) |
+| 2026/05/14  | 17:00 | [link](https://meet.google.com/dzs-tpjy-hds) | [link](https://tel.meet/dzs-tpjy-hds?pin=3275136706880) |
+| 2026/06/11  | 17:00 | [link](https://meet.google.com/dzs-tpjy-hds) | [link](https://tel.meet/dzs-tpjy-hds?pin=3275136706880) |
+| 2026/07/09  | 17:00 | [link](https://meet.google.com/dzs-tpjy-hds) | [link](https://tel.meet/dzs-tpjy-hds?pin=3275136706880) |
 
 ## Issues
 
