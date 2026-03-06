@@ -44,6 +44,10 @@ Community meet  | 2026/06/11 | 17:00      | [link](https://meet.google.com/dzs-t
 Community meet  | 2026/07/09 | 17:00      | [link](https://meet.google.com/dzs-tpjy-hds) | [link](https://tel.meet/dzs-tpjy-hds?pin=3275136706880)
                 |            |            |                                              |
 
+## Runtime Performance Benchmarking
+
+We have spent time benchmarking various runtime performances with the plugin tester. See the [Runtime Performance Comparisons deck](https://docs.google.com/presentation/d/1x08N3vU0ChE3suX8v1BEElms0Xo1rWDC4PVQFMp22KI/edit?usp=sharing) for a summary of the results.
+
 ## Issues
 
 Please use [Issues](https://github.com/proxy-wasm/community/issues) to raise
