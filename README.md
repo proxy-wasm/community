@@ -23,12 +23,10 @@ Upcoming community meetings:
 
 Type           | Date       | Time (UTC) | Google Meet
 -------------- | ---------- | ---------- | -----------
-Community meet | 2026/07/09 | 17:00      | [link](https://meet.google.com/dzs-tpjy-hds)
-Community meet | 2026/08/27 | 17:00      | [link](https://meet.google.com/dzs-tpjy-hds)
-Community meet | 2026/09/24 | 17:00      | [link](https://meet.google.com/dzs-tpjy-hds)
-Community meet | 2026/10/22 | 17:00      | [link](https://meet.google.com/dzs-tpjy-hds)
-Community meet | 2026/11/19 | 17:00      | [link](https://meet.google.com/dzs-tpjy-hds)
-Community meet | 2026/12/17 | 17:00      | [link](https://meet.google.com/dzs-tpjy-hds)
+Community meet | 2026/09/24 | 17:00      | [link](https://meet.google.com/his-tbdv-jgz)
+Community meet | 2026/10/22 | 17:00      | [link](https://meet.google.com/his-tbdv-jgz)
+Community meet | 2026/11/19 | 18:00      | [link](https://meet.google.com/his-tbdv-jgz)
+Community meet | 2026/12/17 | 18:00      | [link](https://meet.google.com/his-tbdv-jgz)
                |            |            |
 
 ## Issues
