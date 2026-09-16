@@ -21,32 +21,16 @@ are recorded in [Proxy-Wasm community meeting notes](https://docs.google.com/doc
 
 Upcoming community meetings:
 
-Type            | Date       | Time (UTC) | Google Meet                                  | Join by phone
---------------- | ---------- | ---------- | -------------------------------------------- | -------------
-Community meet  | 2025/05/29 | 17:00      | [link](https://meet.google.com/rjp-zixz-vzr) | [link](https://tel.meet/rjp-zixz-vzr?pin=6040905848018)
-Community meet  | 2025/06/26 | 17:00      | [link](https://meet.google.com/rjp-zixz-vzr) | [link](https://tel.meet/rjp-zixz-vzr?pin=6040905848018)
-Community meet  | 2025/07/31 | 17:00      | [link](https://meet.google.com/rjp-zixz-vzr) | [link](https://tel.meet/rjp-zixz-vzr?pin=6040905848018)
-Community meet  | 2025/09/04 | 17:00      | [link](https://meet.google.com/rjp-zixz-vzr) | [link](https://tel.meet/rjp-zixz-vzr?pin=6040905848018)
-Community meet  | 2025/09/25 | 17:00      | [link](https://meet.google.com/rjp-zixz-vzr) | [link](https://tel.meet/rjp-zixz-vzr?pin=6040905848018)
-Community meet  | 2025/11/06 | 18:00      | [link](https://meet.google.com/rjp-zixz-vzr) | [link](https://tel.meet/rjp-zixz-vzr?pin=6040905848018)
-Community meet  | 2025/12/04 | 18:00      | [link](https://meet.google.com/rjp-zixz-vzr) | [link](https://tel.meet/rjp-zixz-vzr?pin=6040905848018)
-Community meet  | 2026/01/15 | 18:00      | [link](https://meet.google.com/rjp-zixz-vzr) | [link](https://tel.meet/rjp-zixz-vzr?pin=6040905848018)
-Community meet  | 2026/02/12 | 18:00      | [link](https://meet.google.com/dzs-tpjy-hds) | [link](https://tel.meet/dzs-tpjy-hds?pin=3275136706880)
-v0.3 sync (30m) | 2026/02/19 | 18:00      | [link](https://meet.google.com/ghh-ngja-ztn) |
-v0.3 sync (30m) | 2026/02/26 | 18:00      | [link](https://meet.google.com/ghh-ngja-ztn) |
-v0.3 sync (30m) | 2026/03/05 | 18:00      | [link](https://meet.google.com/ghh-ngja-ztn) |
-Community meet  | 2026/03/12 | 17:00      | [link](https://meet.google.com/dzs-tpjy-hds) | [link](https://tel.meet/dzs-tpjy-hds?pin=3275136706880)
-v0.3 sync (30m) | 2026/03/19 | 17:00      | [link](https://meet.google.com/ghh-ngja-ztn) |
-v0.3 sync (30m) | 2026/03/26 | 17:00      | [link](https://meet.google.com/ghh-ngja-ztn) |
-Community meet  | 2026/04/09 | 17:00      | [link](https://meet.google.com/dzs-tpjy-hds) | [link](https://tel.meet/dzs-tpjy-hds?pin=3275136706880)
-Community meet  | 2026/05/14 | 17:00      | [link](https://meet.google.com/dzs-tpjy-hds) | [link](https://tel.meet/dzs-tpjy-hds?pin=3275136706880)
-Community meet  | 2026/06/11 | 17:00      | [link](https://meet.google.com/dzs-tpjy-hds) | [link](https://tel.meet/dzs-tpjy-hds?pin=3275136706880)
-Community meet  | 2026/07/09 | 17:00      | [link](https://meet.google.com/dzs-tpjy-hds) | [link](https://tel.meet/dzs-tpjy-hds?pin=3275136706880)
-                |            |            |                                              |
+Type           | Date       | Time (UTC) | Google Meet
+-------------- | ---------- | ---------- | -----------
+Community meet | 2026/09/24 | 17:00      | [link](https://meet.google.com/his-tbdv-jgz)
+Community meet | 2026/10/22 | 17:00      | [link](https://meet.google.com/his-tbdv-jgz)
+Community meet | 2026/11/19 | 18:00      | [link](https://meet.google.com/his-tbdv-jgz)
+Community meet | 2026/12/17 | 18:00      | [link](https://meet.google.com/his-tbdv-jgz)
+               |            |            |
 
 ## Issues
 
 Please use [Issues](https://github.com/proxy-wasm/community/issues) to raise
 and discuss items pertaining to the Proxy-Wasm community.
-
 
