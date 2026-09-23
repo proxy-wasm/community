@@ -11,7 +11,7 @@ Chat spaces related to Proxy-Wasm:
   general Proxy-Wasm discussion
 * Envoy Slack [#envoy-wasm channel](https://envoyproxy.slack.com/archives/CM2CQ4XJ5):
   Envoy-specific Proxy-Wasm discussion, to get invited go
-  [here](https://communityinviter.com/apps/envoyproxy/envoy)
+  [here](https://www.envoyproxy.io/slack)
 
 ## Community Meeting
 
