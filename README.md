@@ -29,6 +29,10 @@ Community meet | 2026/11/19 | 18:00      | [link](https://meet.google.com/his-tb
 Community meet | 2026/12/17 | 18:00      | [link](https://meet.google.com/his-tbdv-jgz)
                |            |            |
 
+## Runtime Performance Benchmarking
+
+We have spent time benchmarking various runtime performances with the plugin tester. See the [Runtime Performance Comparisons deck](https://docs.google.com/presentation/d/1x08N3vU0ChE3suX8v1BEElms0Xo1rWDC4PVQFMp22KI/edit?usp=sharing) for a summary of the results.
+
 ## Issues
 
 Please use [Issues](https://github.com/proxy-wasm/community/issues) to raise
